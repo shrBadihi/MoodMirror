@@ -31,6 +31,12 @@ Combined with **image understanding** (via FER) and **speech-to-text** pipelines
 
 ---
 
+## 🔗 Try It Out
+
+Want to experiment with it yourself?👉 [Run the Notebook on Kaggle](https://www.kaggle.com/code/saharbadihi/moodmirror-capstone-project) *(link will be updated with final submission)*
+
+---
+
 ## 🔧 How It Works (with Gen AI!)
 
 ### 1. ✍️ Text Entry → Structured Insights
@@ -103,11 +109,6 @@ In addition to visual insights, MoodMirror also features a chatbot that engages 
 Example of a chatbot conversation providing personalized feedback and support.
 ---
 
-## 🔗 Try It Out
-
-Want to experiment with it yourself?👉 [Run the Notebook on Kaggle](https://www.kaggle.com/code/saharbadihi/moodmirror-capstone-project) *(link will be updated with final submission)*
-
----
 
 ## 💬 Final Thoughts
 

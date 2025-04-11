@@ -59,7 +59,7 @@ It returns:
 - **Affirmation**
 
 **Screenshot of Text Entry Example:**
-![Text Entry](./img/text.png.png)
+![Text Entry](img/text.png)
 *Example of a journal entry and its processed structured insights.*
 
 ### 2. 🎤 Audio Support

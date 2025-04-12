@@ -88,7 +88,6 @@ Your data doesn’t disappear. MoodMirror visualizes:
 
 - 🪄 **Mood Trend Line** over time.
 - 📊 **Emotion Distribution** across entries.
-- ☁️ **Word Cloud** of recurring thoughts.
 
 ![Mood Visualization](img/trend.png)
 *Example of a mood trend visualization over time based on user entries.*

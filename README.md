@@ -74,6 +74,8 @@ It returns:
 ![Text Entry](img/text.png)
 *Example of a journal entry and its processed structured insights.*
 
+---
+
 ### 2. 🎤 Audio Support
 
 MoodMirror uses **Google Speech Recognition** to transcribe `.m4a` or `.wav` voice notes. 
@@ -82,12 +84,16 @@ The transcript is passed through the same analysis pipeline.
 ![Audio Entry](img/audio.png)
 *Example of a voice note being transcribed and analyzed for insights.*
 
+---
+
 ### 3. 📸 Emotion from Images
 
 Upload a selfie, and MoodMirror uses **FER (Facial Emotion Recognition)** with **facenet-pytorch** to analyze expressions like happy, sad, neutral, or angry.
 
 ![Image Entry](img/image.png)
 *Example of an image being processed and emotion analysis displayed.*
+
+---
 
 ### 4. 📊 Mood Visualization
 
@@ -100,12 +106,15 @@ Your data doesn’t disappear. MoodMirror visualizes:
 ![Mood Visualization](img/trend.png)
 *Example of a mood trend visualization over time based on user entries.*
 
+---
 
 ### 5. 🗓 Weekly Summary
 At the end of each week, MoodMirror generates a summary of your emotional journey, highlighting the primary emotions and themes that emerged, as well as any actionable suggestions for improvement.
 
 ![Weekly Summary](img/weekly.png)
 Example of the weekly summary showing insights and suggestions based on entries.
+
+---
 
 ### 6. 💬 Chatbot Interaction
 In addition to visual insights, MoodMirror also features a chatbot that engages with you to provide real-time support, answer questions, and offer encouragement based on the emotions and themes detected in your entries.
@@ -114,7 +123,6 @@ In addition to visual insights, MoodMirror also features a chatbot that engages 
 *Example of a chatbot conversation providing personalized feedback and support.*
 
 ---
-
 
 ## 💬 Final Thoughts
 

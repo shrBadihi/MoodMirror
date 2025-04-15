@@ -110,9 +110,9 @@ Example of the weekly summary showing insights and suggestions based on entries.
 ### 6. 💬 Chatbot Interaction
 In addition to visual insights, MoodMirror also features a chatbot that engages with you to provide real-time support, answer questions, and offer encouragement based on the emotions and themes detected in your entries.
 
-
 ![Chatbot](img/chatbot.png)
-Example of a chatbot conversation providing personalized feedback and support.
+*Example of a chatbot conversation providing personalized feedback and support.*
+
 ---
 
 

@@ -31,6 +31,13 @@ Combined with **image understanding** (via FER) and **speech-to-text** pipelines
 
 ---
 
+A demo video is here.
+
+[![Video Title](https://img.youtube.com/vi/Bv_kK6kjfPQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=Bv_kK6kjfPQ)
+
+
+---
+
 ## 🔗 Try It Out
 
 Want to experiment with it yourself?👉 [Run the Notebook on Kaggle](https://www.kaggle.com/code/saharbadihi/moodmirror-capstone-project) *(link will be updated with final submission)*
